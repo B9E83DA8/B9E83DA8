@@ -45,5 +45,3 @@
 ## 其他
 
 >[Github](https://github.com/B9E83DA8)
->
->![截图]()
